@@ -13,7 +13,7 @@ public class Main {
 
 	static Byte aByte;
 	static Short bShort;
-	static Integer cInteger;
+	static Integer cInteger; 
 	static Long dLong;
 	static Float eFloat;
 	static Double fDouble;

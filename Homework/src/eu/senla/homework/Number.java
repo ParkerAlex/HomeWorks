@@ -2,22 +2,22 @@ package eu.senla.homework;
 
 public class Number {
 	
-	private byte a;
-	private short b;
-	private int c;
-	private long d;
-	private float e;
-	private double f;
-	private char g;
-	private boolean h;
-	private String l; 
+	 byte a;
+	public short b;
+	public int c;
+	public long d;
+	public float e;
+	public double f;
+	public char g;
+	public boolean h;
+	public String l; 
 	
 
 	public Byte aByte;
 	public Short bShort;
 	public Integer cInteger;
 	public Long dLong;
-	public Float eFloat;
+ 	public Float eFloat;
 	public Double fDouble;
 	public Character gCharacter;
 	public Boolean hBoolean;
