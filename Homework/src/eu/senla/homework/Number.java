@@ -2,7 +2,7 @@ package eu.senla.homework;
 
 public class Number {
 	
-	 byte a;
+	public byte a;
 	public short b;
 	public int c;
 	public long d;
